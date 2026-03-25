@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**aditya-syntax/aditya-syntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (Starting 2026) | Computer Science
+💻 Aspiring Full Stack Developer — React.js + Java Spring Boot
+🌏 Goal: Software Developer in Japan 🇯🇵
+🗾 Japanese: JLPT N5 in progress
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning (Year 1)
+- HTML + CSS
+- JavaScript
+- Java + OOP
+- Git + GitHub — committing daily
+- DSA — 1 LeetCode problem daily
+- Japanese — Hiragana, Katakana, JLPT N5 🇯🇵
+
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/aditya-syntax)
+
+[Gmail](aditya.commit@gmail.com)
+
+
+⭐ *4-year journey — Full Stack Developer in Japan by 2030*
