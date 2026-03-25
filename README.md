@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student (Starting 2026) | Computer Science
 💻 Aspiring Full Stack Developer — React.js + Java Spring Boot
-🌏 Goal: Software Developer in Japan 🇯🇵
+🌏 Goal: Software Developer in Japan
 🗾 Japanese: JLPT N5 in progress
 
 ---
