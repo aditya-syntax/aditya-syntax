@@ -71,5 +71,3 @@
 
 ⭐ *4-year journey — Full Stack Developer in Japan by 2030*
 
-
-⭐ *4-year journey — Full Stack Developer in Japan by 2030*
