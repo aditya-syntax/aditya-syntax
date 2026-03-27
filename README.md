@@ -12,8 +12,8 @@
 - JavaScript
 - Node.js + Express.js
 - Git + GitHub — committing daily
-- DSA — 1 LeetCode problem daily (JavaScript)
-- Japanese — Hiragana, Katakana, JLPT N5 🇯🇵
+- DSA — 1 LeetCode problem daily
+- Japanese — Hiragana, Katakana, JLPT N5
 
 ---
 
@@ -31,11 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-syntax&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect
 
